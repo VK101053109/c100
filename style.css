@@ -1,0 +1,32 @@
+body {
+    background-color: brown;
+}
+
+#camera {
+    width: 500px;
+    height: 400px;
+}
+
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+h4 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+img:hover {
+    border-radius: 140px;
+}
+
+.column {
+    display: inline;
+    padding: 10px;
+}
+
+img {
+    width: 37%;
+    border-radius: 4px;
+    padding: 10px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
